@@ -25,3 +25,13 @@ creates it in current directory
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 
 point 9 and more...
+
+# Test you site locally
+
+Run in git bash, in publishing source directory `~/documents/Repositories/jibarons.github.io`
+
+```
+$ bundle exec jekyll serve
+...
+$http://localhost:4000
+```
