@@ -33,5 +33,17 @@ Run in git bash, in publishing source directory `~/documents/Repositories/jibaro
 ```
 $ bundle exec jekyll serve
 ...
-$http://localhost:4000
+$ http://localhost:4000
 ```
+
+# See theme layouts and files
+
+in git command get  path  with:
+
+`bundle info --path time-machine` time-machine = theme info
+
+
+
+
+
+

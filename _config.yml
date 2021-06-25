@@ -34,9 +34,10 @@ github_username:  jibarons
 markdown: GFM
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll # jekyll-theme-time-machine
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
